@@ -1,4 +1,4 @@
-# 🚀  Pizza Sales Analysis Project – MySQL
+# 🍕  Pizza Sales Analysis Project – MySQL
 ## 🎯 Objective
 Designed and executed an end-to-end SQL analytics project on pizza sales data to uncover customer behavior, revenue patterns, and business growth opportunities usng MySQL.
 ## 🔑 Problem Statements Solved
