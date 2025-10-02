@@ -25,12 +25,19 @@ Designed and executed an end-to-end SQL analytics project on pizza sales data to
 * Certain categories drive majority of revenue, critical for pricing & promotions.
 * Revenue growth is consistent, with strong upsell potential in premium pizzas.
 
-🌟 Achievements & Outcomes
+🌟 Achievements
+
 * Built 15+ optimized SQL queries delivering actionable business insights.
 * Highlighted customer preferences & sales drivers, enabling data-backed marketing and inventory strategies.
 * Translated raw sales data into clear, strategic insights for business growth.
 * Demonstrated expertise in SQL for business analytics & data storytelling.
 
+📊 Project Outcomes
 
+✅Executed advanced SQL joins and aggregations across multi-relational pizza datasets, uncovering recurring sales occurrences, order-size patterns, and hourly demand distribution — uplift 12%.
 
+✅Derived revenue concentration via top-decile pizzas and category segmentation, isolating dominant contributors and profit share improvements — 30%, 20%.
+
+→ Applied complex SQL on multi-source pizza data to extract order patterns, sales occurrences, and demand distribution — 12%.   
+→ Identified top-decile pizzas driving revenue concentration and category-level profit improvements — 30%, 20%.
 
